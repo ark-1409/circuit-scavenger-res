@@ -1,1 +1,1 @@
-192.168.1.80:25566
+jersey-applicable.gl.at.ply.gg:7082
